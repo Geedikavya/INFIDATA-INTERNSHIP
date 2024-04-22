@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt # for basic visualization
 
 #strip plot
 #loading dataset
-df=sns.load_dataset("penguins") #loading the dataset
+df=sns.load_dataset("iris") #loading the dataset
 
 
 #creating a strip plot
